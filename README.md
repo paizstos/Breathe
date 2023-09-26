@@ -2,7 +2,7 @@
 Breathe est une application Android qui utilise l'API de AirCheckr pour donner en temps réel la qualité de l'air d'une ville belge
 
 ## Comment Installer
-Copier le fichier Breathe_V4_0.apk dans un mobile Android, cliquer desus pour lancer l'installation puis suivre les étapes
+Copier le fichier Breathe_V4_0.apk sur un mobile Android, cliquer desus pour lancer l'installation puis suivre les étapes
 
 ## Utilisation
 Vous pouvez soit : 
